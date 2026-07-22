@@ -5,10 +5,10 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=evZ8tyec4x0">TOROJOL KDM KE BOGOR | TES KEMAMPUAN SISWA HITUNG BESARAN BOS PER HARI</a></h3>
-<p class="video-date">July 21, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/evZ8tyec4x0?rel=0" title="TOROJOL KDM KE BOGOR | TES KEMAMPUAN SISWA HITUNG BESARAN BOS PER HARI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=evZ8tyec4x0">▶ Watch on YouTube</a></p>
+<h3><a href="https://www.youtube.com/watch?v=8jaR016HuwA">KDM KEMBALI TES KEMAMPUAN SISWA | AWALNYA PUSING UJUNGNYA BAHAGIA</a></h3>
+<p class="video-date">July 22, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/8jaR016HuwA?rel=0" title="KDM KEMBALI TES KEMAMPUAN SISWA | AWALNYA PUSING UJUNGNYA BAHAGIA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=8jaR016HuwA">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
@@ -21,12 +21,12 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 -
 #kangdedimulyadi
 #dedimulyadi
-#kdm #bogor #siswa</p>
+#kdm #siswa #bahagia</p>
 </div>
 
 <div class="video-entry">
 <h3><a href="https://www.youtube.com/watch?v=_ObRqqGNNiM">KDM AJARKAN KEMANDIRIAN | NYI HYANG NIKMATI TARIAN BALI DALAM SENYUMAN</a></h3>
-<p class="video-date">July 21, 2026</p>
+<p class="video-date">July 22, 2026</p>
 <iframe class="video-embed" src="https://www.youtube.com/embed/_ObRqqGNNiM?rel=0" title="KDM AJARKAN KEMANDIRIAN | NYI HYANG NIKMATI TARIAN BALI DALAM SENYUMAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 <p class="video-link"><a href="https://www.youtube.com/watch?v=_ObRqqGNNiM">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
@@ -45,10 +45,10 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 </div>
 
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=PUIGNAGxt1A">KESETIAAN NYI HYANG PADA TEMAN-TEMANNYA | AJAK BELANJA SEBELUM PULANG</a></h3>
+<h3><a href="https://www.youtube.com/watch?v=evZ8tyec4x0">TOROJOL KDM KE BOGOR | TES KEMAMPUAN SISWA HITUNG BESARAN BOS PER HARI</a></h3>
 <p class="video-date">July 21, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/PUIGNAGxt1A?rel=0" title="KESETIAAN NYI HYANG PADA TEMAN-TEMANNYA | AJAK BELANJA SEBELUM PULANG" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=PUIGNAGxt1A">▶ Watch on YouTube</a></p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/evZ8tyec4x0?rel=0" title="TOROJOL KDM KE BOGOR | TES KEMAMPUAN SISWA HITUNG BESARAN BOS PER HARI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=evZ8tyec4x0">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
@@ -61,6 +61,6 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 -
 #kangdedimulyadi
 #dedimulyadi
-#kdm</p>
+#kdm #bogor #siswa</p>
 </div>
 <!-- VIDEOS_END -->
