@@ -5,6 +5,26 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
+<h3><a href="https://www.youtube.com/watch?v=C_-pEslgpFA">MEILA SEMPAT HILANG DIBAWA KABUR MANTAN PACAR | KINI SUDAH KEMBALI | SIAP NAIK PELAMINAN</a></h3>
+<p class="video-date">July 28, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/C_-pEslgpFA?rel=0" title="MEILA SEMPAT HILANG DIBAWA KABUR MANTAN PACAR | KINI SUDAH KEMBALI | SIAP NAIK PELAMINAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=C_-pEslgpFA">▶ Watch on YouTube</a></p>
+<p class="video-description">====================================
+-
+-
+Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
+-
+Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
+-
+Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
+-
+-
+#kangdedimulyadi
+#dedimulyadi
+#kdm</p>
+</div>
+
+<div class="video-entry">
 <h3><a href="https://www.youtube.com/watch?v=8ChO7RMXcBI">MPOK JUMINI DIONTROG KELUARGA DESY | TERNYATA PUNYA RUMAH LIAR DIGUSUR KDM</a></h3>
 <p class="video-date">July 28, 2026</p>
 <iframe class="video-embed" src="https://www.youtube.com/embed/8ChO7RMXcBI?rel=0" title="MPOK JUMINI DIONTROG KELUARGA DESY | TERNYATA PUNYA RUMAH LIAR DIGUSUR KDM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -42,25 +62,5 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 #kangdedimulyadi
 #dedimulyadi
 #kdm #ayam #warga</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=wPfr-lLA5LU">BERKUNJUNG KE KELUARGA SECURITY PJT K0RB4N SUMARNA | KDM HERAN DI LOKASI OBVIT NASIONAL TAK ADA CCTV</a></h3>
-<p class="video-date">July 27, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/wPfr-lLA5LU?rel=0" title="BERKUNJUNG KE KELUARGA SECURITY PJT K0RB4N SUMARNA | KDM HERAN DI LOKASI OBVIT NASIONAL TAK ADA CCTV" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=wPfr-lLA5LU">▶ Watch on YouTube</a></p>
-<p class="video-description">====================================
--
--
-Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
--
-Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
--
-Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
--
--
-#kangdedimulyadi
-#dedimulyadi
-#kdm #keluarga #cctv</p>
 </div>
 <!-- VIDEOS_END -->
