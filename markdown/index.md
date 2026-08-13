@@ -5,6 +5,26 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
+<h3><a href="https://www.youtube.com/watch?v=mE74sHk4t0g">KAWASAN INDUSTRI MULAI BEROPERASI | MOBIL LISTRIK MULAI PRODUKSI | PULUHAN RIBU ORANG BEKERJA</a></h3>
+<p class="video-date">August 13, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/mE74sHk4t0g?rel=0" title="KAWASAN INDUSTRI MULAI BEROPERASI | MOBIL LISTRIK MULAI PRODUKSI | PULUHAN RIBU ORANG BEKERJA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=mE74sHk4t0g">▶ Watch on YouTube</a></p>
+<p class="video-description">====================================
+-
+-
+Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
+-
+Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
+-
+Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
+-
+-
+#kangdedimulyadi
+#dedimulyadi
+#kdm #industrial #mobil</p>
+</div>
+
+<div class="video-entry">
 <h3><a href="https://www.youtube.com/watch?v=5ughGOuN89Q">REMAJA YATIM PIATU ASAL BREBES | DULU SEMPAT MAU TEMUI KDM  | DATANG MINTA LANJUTIN SEKOLAH</a></h3>
 <p class="video-date">August 12, 2026</p>
 <iframe class="video-embed" src="https://www.youtube.com/embed/5ughGOuN89Q?rel=0" title="REMAJA YATIM PIATU ASAL BREBES | DULU SEMPAT MAU TEMUI KDM  | DATANG MINTA LANJUTIN SEKOLAH" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -42,25 +62,5 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 #kangdedimulyadi
 #dedimulyadi
 #kdm#hidup #kuliah</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=2bGddkYNa64">HERU, TERS4NGKA JARINGAN PENADAH MOTOR CUR1AN | ASALNYA HIDUP MAPAN, KERJA DI PELAYARAN</a></h3>
-<p class="video-date">August 11, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/2bGddkYNa64?rel=0" title="HERU, TERS4NGKA JARINGAN PENADAH MOTOR CUR1AN | ASALNYA HIDUP MAPAN, KERJA DI PELAYARAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=2bGddkYNa64">▶ Watch on YouTube</a></p>
-<p class="video-description">====================================
--
--
-Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
--
-Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
--
-Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
--
--
-#kangdedimulyadi
-#dedimulyadi
-#kdm</p>
 </div>
 <!-- VIDEOS_END -->
