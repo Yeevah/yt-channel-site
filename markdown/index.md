@@ -5,6 +5,13 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
+<h3><a href="https://www.youtube.com/shorts/A-nTrp7trUs">MERDEKA</a></h3>
+<p class="video-date">August 17, 2026</p>
+
+
+</div>
+
+<div class="video-entry">
 <h3><a href="https://www.youtube.com/watch?v=Bi5PwN1Izkg">ANGKOT H4NCUR TERT1MPA POHON | WARGA CIANJUR MENGADU | KDM MALAH NASIHATI ISTRINYA</a></h3>
 <p class="video-date">August 16, 2026</p>
 <iframe class="video-embed" src="https://www.youtube.com/embed/Bi5PwN1Izkg?rel=0" title="ANGKOT H4NCUR TERT1MPA POHON | WARGA CIANJUR MENGADU | KDM MALAH NASIHATI ISTRINYA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -42,12 +49,5 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 #kangdedimulyadi
 #dedimulyadi
 #kdm #kali</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/shorts/sx15jsLYgNE">SELAMAT BERLIBUR DAN SEMOGA BAHAGIA</a></h3>
-<p class="video-date">August 16, 2026</p>
-
-
 </div>
 <!-- VIDEOS_END -->
