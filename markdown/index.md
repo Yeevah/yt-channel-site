@@ -5,6 +5,46 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
+<h3><a href="https://www.youtube.com/watch?v=PM_GLGfs1Qg">SAPA TARUNA SMK | INI FAKTA YANG DITEMUKAN | KDM SEGERA PERCEPAT PERUBAHAN PENDIDIKAN</a></h3>
+<p class="video-date">September 15, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/PM_GLGfs1Qg?rel=0" title="SAPA TARUNA SMK | INI FAKTA YANG DITEMUKAN | KDM SEGERA PERCEPAT PERUBAHAN PENDIDIKAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=PM_GLGfs1Qg">▶ Watch on YouTube</a></p>
+<p class="video-description">====================================
+-
+-
+Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
+-
+Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
+-
+Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
+-
+-
+#kangdedimulyadi
+#dedimulyadi
+#kdm #fakta</p>
+</div>
+
+<div class="video-entry">
+<h3><a href="https://www.youtube.com/watch?v=FY9DszWB3HQ">K0RB4N KM VIRGO ASAL JABAR | 11 HILANG, 12 SELAMAT | INI LANGKAH CEPAT KDM</a></h3>
+<p class="video-date">September 15, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/FY9DszWB3HQ?rel=0" title="K0RB4N KM VIRGO ASAL JABAR | 11 HILANG, 12 SELAMAT | INI LANGKAH CEPAT KDM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=FY9DszWB3HQ">▶ Watch on YouTube</a></p>
+<p class="video-description">====================================
+-
+-
+Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
+-
+Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
+-
+Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
+-
+-
+#kangdedimulyadi
+#dedimulyadi
+#kdm #jabar #virgo</p>
+</div>
+
+<div class="video-entry">
 <h3><a href="https://www.youtube.com/watch?v=6kO-s7dzhCU">KENANGAN INDAH BERSAMA KANAYA | PERTAMA KALI BERNYANYI DI NYAWANG BULAN, 2 DESEMBER 2020</a></h3>
 <p class="video-date">September 14, 2026</p>
 <iframe class="video-embed" src="https://www.youtube.com/embed/6kO-s7dzhCU?rel=0" title="KENANGAN INDAH BERSAMA KANAYA | PERTAMA KALI BERNYANYI DI NYAWANG BULAN, 2 DESEMBER 2020" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -22,45 +62,5 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 #kangdedimulyadi
 #dedimulyadi
 #kdm #</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=IgZ4TXDoUWI">HADIRI HARI JADI KARAWANG | KDM, BUPATI, KETUA DPRD DAN TEH CELY DUDUK DI ASPAL TERIMA DEMO WARGA</a></h3>
-<p class="video-date">September 14, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/IgZ4TXDoUWI?rel=0" title="HADIRI HARI JADI KARAWANG | KDM, BUPATI, KETUA DPRD DAN TEH CELY DUDUK DI ASPAL TERIMA DEMO WARGA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=IgZ4TXDoUWI">▶ Watch on YouTube</a></p>
-<p class="video-description">====================================
--
--
-Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
--
-Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
--
-Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
--
--
-#kangdedimulyadi
-#dedimulyadi
-#kdm #demo</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=tyPWiiP6wXA">MAMPIR DI RUMAH WARGA YANG MEN1NGG4L | KDM JUMPAI PENYABIT RUMPUT HABIS BBM</a></h3>
-<p class="video-date">September 13, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/tyPWiiP6wXA?rel=0" title="MAMPIR DI RUMAH WARGA YANG MEN1NGG4L | KDM JUMPAI PENYABIT RUMPUT HABIS BBM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=tyPWiiP6wXA">▶ Watch on YouTube</a></p>
-<p class="video-description">====================================
--
--
-Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
--
-Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
--
-Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
--
--
-#kangdedimulyadi
-#dedimulyadi
-#kdm</p>
 </div>
 <!-- VIDEOS_END -->
