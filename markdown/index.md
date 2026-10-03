@@ -5,6 +5,26 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
+<h3><a href="https://www.youtube.com/watch?v=cf30DdjdFKM">PERJUANGAN ORTU URUS AN4K DER1TA PENY4K1T LANGKA | BUTUH BIAYA 120 JUTA PER MINGGU</a></h3>
+<p class="video-date">October 3, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/cf30DdjdFKM?rel=0" title="PERJUANGAN ORTU URUS AN4K DER1TA PENY4K1T LANGKA | BUTUH BIAYA 120 JUTA PER MINGGU" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=cf30DdjdFKM">▶ Watch on YouTube</a></p>
+<p class="video-description">====================================
+-
+-
+Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
+-
+Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
+-
+Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
+-
+-
+#kangdedimulyadi
+#dedimulyadi
+#kdm</p>
+</div>
+
+<div class="video-entry">
 <h3><a href="https://www.youtube.com/watch?v=4B4UuXCS5rY">BURSA KERJA DIGELAR | KDM SOROTI MINIMNYA DATA PEKERJA DAN HILANGNYA POTENSI PENDAPATAN DAERAH</a></h3>
 <p class="video-date">October 3, 2026</p>
 <iframe class="video-embed" src="https://www.youtube.com/embed/4B4UuXCS5rY?rel=0" title="BURSA KERJA DIGELAR | KDM SOROTI MINIMNYA DATA PEKERJA DAN HILANGNYA POTENSI PENDAPATAN DAERAH" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -42,25 +62,5 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 #kangdedimulyadi
 #dedimulyadi
 #kdm #data</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=qmDwz1m72lk">SAAT GURU DITES MATEMATIKA, NYI HYANG NGAMBEK | BELAJAR GASING DITUTUP</a></h3>
-<p class="video-date">October 2, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/qmDwz1m72lk?rel=0" title="SAAT GURU DITES MATEMATIKA, NYI HYANG NGAMBEK | BELAJAR GASING DITUTUP" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=qmDwz1m72lk">▶ Watch on YouTube</a></p>
-<p class="video-description">====================================
--
--
-Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
--
-Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
--
-Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
--
--
-#kangdedimulyadi
-#dedimulyadi
-#kdm #guru</p>
 </div>
 <!-- VIDEOS_END -->
