@@ -5,10 +5,10 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=77MTMBBG_fE">KDM NONTON DI GBK | WARGA MALAYSIA DUKUNG TIMNAS INDONEISA MENANG DI FINAL</a></h3>
-<p class="video-date">October 5, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/77MTMBBG_fE?rel=0" title="KDM NONTON DI GBK | WARGA MALAYSIA DUKUNG TIMNAS INDONEISA MENANG DI FINAL" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=77MTMBBG_fE">▶ Watch on YouTube</a></p>
+<h3><a href="https://www.youtube.com/watch?v=0_pFn9cAxc0">KAMPUNG KRANGGAN DI KOTA BEKASI MASIH BERTRADISI SUNDA | INI RENCANA PENATAAN</a></h3>
+<p class="video-date">October 6, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/0_pFn9cAxc0?rel=0" title="KAMPUNG KRANGGAN DI KOTA BEKASI MASIH BERTRADISI SUNDA | INI RENCANA PENATAAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=0_pFn9cAxc0">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
@@ -25,10 +25,10 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 </div>
 
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=c8xIJb1234Q">INI PENDAPAT PAKAR TENTANG DAMPAK LINGKUNGAN DATA CENTER AI DAN INI SOLUSINYA</a></h3>
-<p class="video-date">October 5, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/c8xIJb1234Q?rel=0" title="INI PENDAPAT PAKAR TENTANG DAMPAK LINGKUNGAN DATA CENTER AI DAN INI SOLUSINYA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=c8xIJb1234Q">▶ Watch on YouTube</a></p>
+<h3><a href="https://www.youtube.com/watch?v=AHBXOkETdv0">TIMNAS JUARA FIFA ASEAN CUP | PENJAGA GAWANG PAHLAWAN KEMENANGAN TERNYATA BERMARGA MULYADI</a></h3>
+<p class="video-date">October 6, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/AHBXOkETdv0?rel=0" title="TIMNAS JUARA FIFA ASEAN CUP | PENJAGA GAWANG PAHLAWAN KEMENANGAN TERNYATA BERMARGA MULYADI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=AHBXOkETdv0">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
@@ -41,14 +41,14 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 -
 #kangdedimulyadi
 #dedimulyadi
-#kdm #data</p>
+#kdm</p>
 </div>
 
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=fzD4eb3_0ew">HABIBI KEMBALI SEKOLAH DI CIREBON | AYAHNYA INGIN SEGERA DI0PER4SI</a></h3>
+<h3><a href="https://www.youtube.com/watch?v=77MTMBBG_fE">KDM NONTON DI GBK | WARGA MALAYSIA DUKUNG TIMNAS INDONEISA MENANG DI FINAL</a></h3>
 <p class="video-date">October 5, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/fzD4eb3_0ew?rel=0" title="HABIBI KEMBALI SEKOLAH DI CIREBON | AYAHNYA INGIN SEGERA DI0PER4SI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=fzD4eb3_0ew">▶ Watch on YouTube</a></p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/77MTMBBG_fE?rel=0" title="KDM NONTON DI GBK | WARGA MALAYSIA DUKUNG TIMNAS INDONEISA MENANG DI FINAL" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=77MTMBBG_fE">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
