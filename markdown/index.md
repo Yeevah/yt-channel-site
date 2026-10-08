@@ -5,10 +5,10 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=WpNjpRh01AU">KDM DAN BUPATI - WALI KOTA KUMPUL DI DEPOK | APA SAJA YANG MENJADI BAHASAN ?</a></h3>
-<p class="video-date">October 7, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/WpNjpRh01AU?rel=0" title="KDM DAN BUPATI - WALI KOTA KUMPUL DI DEPOK | APA SAJA YANG MENJADI BAHASAN ?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=WpNjpRh01AU">▶ Watch on YouTube</a></p>
+<h3><a href="https://www.youtube.com/watch?v=uM9dWFusOjE">3 BULAN BEKERJA BUKANNYA DIBAYAR TAPI MALAH DI SIKSA | INI LANGKAH KDM</a></h3>
+<p class="video-date">October 8, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/uM9dWFusOjE?rel=0" title="3 BULAN BEKERJA BUKANNYA DIBAYAR TAPI MALAH DI SIKSA | INI LANGKAH KDM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=uM9dWFusOjE">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
@@ -21,14 +21,14 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 -
 #kangdedimulyadi
 #dedimulyadi
-#kdm #bupati #walikota #depok</p>
+#kdm</p>
 </div>
 
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=9Ix11DX5Lq8">KELILING BALAI KOTA DEPOK INI PERUBAHAN YANG TERJADI SAAT INI</a></h3>
-<p class="video-date">October 7, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/9Ix11DX5Lq8?rel=0" title="KELILING BALAI KOTA DEPOK INI PERUBAHAN YANG TERJADI SAAT INI" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=9Ix11DX5Lq8">▶ Watch on YouTube</a></p>
+<h3><a href="https://www.youtube.com/watch?v=IC6NFy36UzU">KASUS PT. BDS SEDANG BERPROSES DI PENGADILAN | INI PENJELASAN KANG DS BUPATI BANDUNG</a></h3>
+<p class="video-date">October 8, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/IC6NFy36UzU?rel=0" title="KASUS PT. BDS SEDANG BERPROSES DI PENGADILAN | INI PENJELASAN KANG DS BUPATI BANDUNG" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=IC6NFy36UzU">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
@@ -41,14 +41,14 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 -
 #kangdedimulyadi
 #dedimulyadi
-#kdm #depok #kota</p>
+#kdm</p>
 </div>
 
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=0_pFn9cAxc0">KAMPUNG KRANGGAN DI KOTA BEKASI MASIH BERTRADISI SUNDA | INI RENCANA PENATAAN</a></h3>
-<p class="video-date">October 6, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/0_pFn9cAxc0?rel=0" title="KAMPUNG KRANGGAN DI KOTA BEKASI MASIH BERTRADISI SUNDA | INI RENCANA PENATAAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=0_pFn9cAxc0">▶ Watch on YouTube</a></p>
+<h3><a href="https://www.youtube.com/watch?v=DCAM-fkZWik">SAMBUT INVESTOR JEPANG SEPERTI TEMAN | KDM SAJIKAN SATE DAN BAKAKAK AYAM JAMUAN MAKAN</a></h3>
+<p class="video-date">October 8, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/DCAM-fkZWik?rel=0" title="SAMBUT INVESTOR JEPANG SEPERTI TEMAN | KDM SAJIKAN SATE DAN BAKAKAK AYAM JAMUAN MAKAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=DCAM-fkZWik">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
