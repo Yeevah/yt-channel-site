@@ -5,6 +5,46 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
+<h3><a href="https://www.youtube.com/watch?v=5h6DTJSu000">MANG JAJANG DAN BI EROH SAH JADI PASANGAN | KDM BERI HADIAH BULAN MADU</a></h3>
+<p class="video-date">November 8, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/5h6DTJSu000?rel=0" title="MANG JAJANG DAN BI EROH SAH JADI PASANGAN | KDM BERI HADIAH BULAN MADU" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=5h6DTJSu000">▶ Watch on YouTube</a></p>
+<p class="video-description">====================================
+-
+-
+Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
+-
+Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
+-
+Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
+-
+-
+#kangdedimulyadi
+#dedimulyadi
+#kdm</p>
+</div>
+
+<div class="video-entry">
+<h3><a href="https://www.youtube.com/watch?v=SYws-HAU4Cs">DESA PAJAJAR JADI LAUTAN MANUSIA SAAT HAJI UDIN TIBA</a></h3>
+<p class="video-date">November 8, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/SYws-HAU4Cs?rel=0" title="DESA PAJAJAR JADI LAUTAN MANUSIA SAAT HAJI UDIN TIBA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=SYws-HAU4Cs">▶ Watch on YouTube</a></p>
+<p class="video-description">====================================
+-
+-
+Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
+-
+Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
+-
+Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
+-
+-
+#kangdedimulyadi
+#dedimulyadi
+#kdm #desa</p>
+</div>
+
+<div class="video-entry">
 <h3><a href="https://www.youtube.com/watch?v=4lwTYAplBzk">KDM PASTIKAN BURUH PABRIK GENTENG HARUS TERLINDUNGI BPJS KESEHATAN DAN KETENAGAKERJAAN</a></h3>
 <p class="video-date">November 7, 2026</p>
 <iframe class="video-embed" src="https://www.youtube.com/embed/4lwTYAplBzk?rel=0" title="KDM PASTIKAN BURUH PABRIK GENTENG HARUS TERLINDUNGI BPJS KESEHATAN DAN KETENAGAKERJAAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -22,45 +62,5 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 #kangdedimulyadi
 #dedimulyadi
 #kdm</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=OKP_2GtDhv0">PROYEK PEMBANGUNAN DI MAJALENGKA SENILAI 232 M DIRESMIKAN | BURUH GENTENG TANPA BPJS</a></h3>
-<p class="video-date">November 7, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/OKP_2GtDhv0?rel=0" title="PROYEK PEMBANGUNAN DI MAJALENGKA SENILAI 232 M DIRESMIKAN | BURUH GENTENG TANPA BPJS" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=OKP_2GtDhv0">▶ Watch on YouTube</a></p>
-<p class="video-description">====================================
--
--
-Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
--
-Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
--
-Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
--
--
-#kangdedimulyadi
-#dedimulyadi
-#kdm</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=9YcFMUf1r0M">HAJI UDIN PULANG KAMPUNG | BERTEMU REMAJA PUTUS SEKOLAH JUALAN RUJAK</a></h3>
-<p class="video-date">November 6, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/9YcFMUf1r0M?rel=0" title="HAJI UDIN PULANG KAMPUNG | BERTEMU REMAJA PUTUS SEKOLAH JUALAN RUJAK" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=9YcFMUf1r0M">▶ Watch on YouTube</a></p>
-<p class="video-description">====================================
--
--
-Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
--
-Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
--
-Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
--
--
-#kangdedimulyadi
-#dedimulyadi
-#kdm #kampung</p>
 </div>
 <!-- VIDEOS_END -->
