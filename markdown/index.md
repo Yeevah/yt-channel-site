@@ -5,6 +5,26 @@ Known for his down-to-earth style and direct approach to public service.
 
 <!-- VIDEOS_START -->
 <div class="video-entry">
+<h3><a href="https://www.youtube.com/watch?v=WTpMcWyXeK4">KEJUJURAN WARGA BADUY BIKIN KAGUM | KEMBALIKAN UANG BANTUAN KARENA DUA KALI TERIMA</a></h3>
+<p class="video-date">November 25, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/WTpMcWyXeK4?rel=0" title="KEJUJURAN WARGA BADUY BIKIN KAGUM | KEMBALIKAN UANG BANTUAN KARENA DUA KALI TERIMA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=WTpMcWyXeK4">▶ Watch on YouTube</a></p>
+<p class="video-description">====================================
+-
+-
+Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
+-
+Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
+-
+Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
+-
+-
+#kangdedimulyadi
+#dedimulyadi
+#kdm</p>
+</div>
+
+<div class="video-entry">
 <h3><a href="https://www.youtube.com/watch?v=mhwblCiCcck">TENGOK K0RB4N ANGIN PUTING BELIUNG DI KABUPATEN BANDUNG | KDM MALAH DISERBU WARGA</a></h3>
 <p class="video-date">November 24, 2026</p>
 <iframe class="video-embed" src="https://www.youtube.com/embed/mhwblCiCcck?rel=0" title="TENGOK K0RB4N ANGIN PUTING BELIUNG DI KABUPATEN BANDUNG | KDM MALAH DISERBU WARGA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
@@ -42,25 +62,5 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 #kangdedimulyadi
 #dedimulyadi
 #kdm #kebakaran</p>
-</div>
-
-<div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=Lfv_mCFSLBI">DITEMANI JARO OOM | KDM BERJALAN KAKI LEWATI HAMPARAN PADI HUMA DI PERBUKITAN</a></h3>
-<p class="video-date">November 23, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/Lfv_mCFSLBI?rel=0" title="DITEMANI JARO OOM | KDM BERJALAN KAKI LEWATI HAMPARAN PADI HUMA DI PERBUKITAN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=Lfv_mCFSLBI">▶ Watch on YouTube</a></p>
-<p class="video-description">====================================
--
--
-Terima kasih untuk semua yang selalu setia dengan tayangan di Channel YouTube Kang Dedi Mulyadi. 
--
-Semoga apa yang dihadirkan dapat bermanfaat dan menjadi pelajaran hidup. 
--
-Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhnya kebahagian bisa kita dapatkan ketika sudah bisa membahagiakan orang lain.
--
--
-#kangdedimulyadi
-#dedimulyadi
-#kdm</p>
 </div>
 <!-- VIDEOS_END -->
