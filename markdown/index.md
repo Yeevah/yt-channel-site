@@ -45,10 +45,10 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 </div>
 
 <div class="video-entry">
-<h3><a href="https://www.youtube.com/watch?v=X4UXuthuu0c">WALI KOTA SUPIAN SURI TERUS BERBENAH | INI IDE PENATAAN KAWASAN BELANDA DEPOK</a></h3>
-<p class="video-date">November 25, 2026</p>
-<iframe class="video-embed" src="https://www.youtube.com/embed/X4UXuthuu0c?rel=0" title="WALI KOTA SUPIAN SURI TERUS BERBENAH | INI IDE PENATAAN KAWASAN BELANDA DEPOK" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-<p class="video-link"><a href="https://www.youtube.com/watch?v=X4UXuthuu0c">▶ Watch on YouTube</a></p>
+<h3><a href="https://www.youtube.com/watch?v=mxL8Jhf2Syo">OBROLAN SANTAI KDM LOGAT BADUY SAMA JARO OOM | PENUH MAKNA DAN JENAKA</a></h3>
+<p class="video-date">November 26, 2026</p>
+<iframe class="video-embed" src="https://www.youtube.com/embed/mxL8Jhf2Syo?rel=0" title="OBROLAN SANTAI KDM LOGAT BADUY SAMA JARO OOM | PENUH MAKNA DAN JENAKA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=mxL8Jhf2Syo">▶ Watch on YouTube</a></p>
 <p class="video-description">====================================
 -
 -
@@ -61,6 +61,6 @@ Selain itu kebahagiaan kita bersama adalah yang paling utama. Karena sesungguhny
 -
 #kangdedimulyadi
 #dedimulyadi
-#kdm #depok</p>
+#kdm #santai</p>
 </div>
 <!-- VIDEOS_END -->
